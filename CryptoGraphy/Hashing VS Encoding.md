@@ -125,4 +125,3 @@ RSA **uses hashes** in digital signatures, but it is not a hash itself.
 
 ## One-Sentence Rule
 **Encoding hides nothing. Hashing hides everything — on purpose.**
-
