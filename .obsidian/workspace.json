@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/HTTP REQUESTS.md",
+                "file": "Steganography/Steganography in CTFs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTP REQUESTS"
+              "title": "Steganography in CTFs"
             }
           }
         ],
@@ -212,16 +212,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "bbf0499173a19338",
+  "active": "8b9f4ceca9cb8584",
   "lastOpenFiles": [
     "CryptoGraphy/sha256sum.md",
-    "Web/HTTP REQUESTS.md",
-    "Web",
+    "Steganography/Steganography in CTFs.md",
+    "CryptoGraphy/RSA.md",
     "CryptoGraphy/Hashing VS Encoding.md",
     "CryptoGraphy/Hashes.md",
+    "Web/HTTP REQUESTS.md",
+    "Web",
     "BinaryExploitation/nm.md",
     "ReverseEngeneering",
-    "CryptoGraphy/RSA.md",
     "BinaryExploitation/File Headers.md",
     "Forensics/xxd.md",
     "BinaryExploitation",

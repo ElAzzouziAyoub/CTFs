@@ -1,5 +1,4 @@
 
-## What sha256sum Is
 `sha256sum` is a command-line tool that computes the **SHA-256 hash** of data.
 
 SHA-256 is:
