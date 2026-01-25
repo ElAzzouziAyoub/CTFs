@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Steganography/Steganography in CTFs.md",
+                "file": "SSTI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Steganography in CTFs"
+              "title": "SSTI"
             }
           }
         ],
@@ -214,8 +214,9 @@
   },
   "active": "8b9f4ceca9cb8584",
   "lastOpenFiles": [
-    "CryptoGraphy/sha256sum.md",
     "Steganography/Steganography in CTFs.md",
+    "SSTI.md",
+    "CryptoGraphy/sha256sum.md",
     "CryptoGraphy/RSA.md",
     "CryptoGraphy/Hashing VS Encoding.md",
     "CryptoGraphy/Hashes.md",
