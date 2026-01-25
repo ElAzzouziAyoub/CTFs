@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSTI.md",
+                "file": "Web/SSTI2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSTI"
+              "title": "SSTI2"
             }
           }
         ],
@@ -212,10 +212,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "8b9f4ceca9cb8584",
+  "active": "bbf0499173a19338",
   "lastOpenFiles": [
+    "Forensics/xxd.md",
+    "Web/SSTI2.md",
+    "Forensics/Strings.md",
+    "Web/SSTI.md",
     "Steganography/Steganography in CTFs.md",
-    "SSTI.md",
     "CryptoGraphy/sha256sum.md",
     "CryptoGraphy/RSA.md",
     "CryptoGraphy/Hashing VS Encoding.md",
@@ -225,12 +228,10 @@
     "BinaryExploitation/nm.md",
     "ReverseEngeneering",
     "BinaryExploitation/File Headers.md",
-    "Forensics/xxd.md",
     "BinaryExploitation",
     "Forensics",
     "Untitled 1.md",
     "CryptoGraphy",
-    "Forensics/Strings.md",
     "Welcome.md"
   ]
 }
