@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/SSTI2.md",
+                "file": "BinaryExploitation/nm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSTI2"
+              "title": "nm"
             }
           }
         ],
@@ -212,10 +212,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "bbf0499173a19338",
+  "active": "8b9f4ceca9cb8584",
   "lastOpenFiles": [
-    "Forensics/xxd.md",
+    "BinaryExploitation/File Headers.md",
     "Web/SSTI2.md",
+    "Forensics/xxd.md",
     "Forensics/Strings.md",
     "Web/SSTI.md",
     "Steganography/Steganography in CTFs.md",
@@ -227,7 +228,6 @@
     "Web",
     "BinaryExploitation/nm.md",
     "ReverseEngeneering",
-    "BinaryExploitation/File Headers.md",
     "BinaryExploitation",
     "Forensics",
     "Untitled 1.md",
