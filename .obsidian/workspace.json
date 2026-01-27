@@ -48,9 +48,37 @@
               "icon": "lucide-file",
               "title": "nm"
             }
+          },
+          {
+            "id": "29fa3e03b02ef8d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BinaryExploitation/File Headers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "File Headers"
+            }
+          },
+          {
+            "id": "25f9845893ae3257",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BinaryExploitation/strcpy() Vuln.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "strcpy() Vuln"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -212,9 +240,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "8b9f4ceca9cb8584",
+  "active": "bbf0499173a19338",
   "lastOpenFiles": [
     "BinaryExploitation/File Headers.md",
+    "BinaryExploitation/strcpy() Vuln.md",
+    "BinaryExploitation/nm.md",
     "Web/SSTI2.md",
     "Forensics/xxd.md",
     "Forensics/Strings.md",
@@ -226,7 +256,6 @@
     "CryptoGraphy/Hashes.md",
     "Web/HTTP REQUESTS.md",
     "Web",
-    "BinaryExploitation/nm.md",
     "ReverseEngeneering",
     "BinaryExploitation",
     "Forensics",
