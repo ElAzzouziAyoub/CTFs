@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FFUF.md",
+                "file": "Steganography/ZSTEG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FFUF"
+              "title": "ZSTEG"
             }
           }
         ],
@@ -254,17 +254,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "12cb1db3572b0dcc",
+  "active": "bbf0499173a19338",
   "lastOpenFiles": [
+    "Steganography/Steganography in CTFs.md",
+    "Steganography/ZSTEG.md",
+    "Web/FFUF.md",
     "BinaryExploitation/strcpy() Vuln.md",
-    "FFUF.md",
     "BinaryExploitation/File Headers.md",
     "BinaryExploitation/nm.md",
     "Web/SSTI2.md",
     "Forensics/xxd.md",
     "Forensics/Strings.md",
     "Web/SSTI.md",
-    "Steganography/Steganography in CTFs.md",
     "CryptoGraphy/sha256sum.md",
     "CryptoGraphy/RSA.md",
     "CryptoGraphy/Hashing VS Encoding.md",
