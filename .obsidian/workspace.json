@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_.htaccess files.md",
+                "file": "LFI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_.htaccess files"
+              "title": "LFI"
             }
           }
         ],
@@ -270,8 +270,9 @@
   },
   "active": "a61ce4a996ac1a86",
   "lastOpenFiles": [
-    "WebShells.md",
     "_.htaccess files.md",
+    "LFI.md",
+    "WebShells.md",
     "Steganography/ZSTEG.md",
     "Steganography/Steganography in CTFs.md",
     "Web/FFUF.md",
