@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LFI.md",
+                "file": "Web/LFI.md",
                 "mode": "source",
                 "source": false
               },
@@ -268,11 +268,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "a61ce4a996ac1a86",
+  "active": "bbf0499173a19338",
   "lastOpenFiles": [
-    "_.htaccess files.md",
-    "LFI.md",
-    "WebShells.md",
+    "Web/_.htaccess files.md",
+    "Web/LFI.md",
+    "Web/WebShells.md",
     "Steganography/ZSTEG.md",
     "Steganography/Steganography in CTFs.md",
     "Web/FFUF.md",
